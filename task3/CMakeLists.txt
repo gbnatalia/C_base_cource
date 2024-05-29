@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(c_3)
+project(c_4_task_3)
 
 macro(use_c99)
     if (CMAKE_VERSION VERSION_LESS "3.1")
@@ -11,4 +11,7 @@ macro(use_c99)
     endif ()
 endmacro(use_c99)
 
-add_executable(c_3 main.c)
+set(OUTPUT_DIR ${CMAKE_SOURCE_DIR}/bin)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${OUTPUT_DIR})
+
+add_executable(c_4_task_3 main.c)
