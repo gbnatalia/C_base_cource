@@ -1,3 +1,0 @@
-D:/__PROJECTS/C/c_8/task7/cmake-build-debug/CMakeFiles/c_8_task7.dir
-D:/__PROJECTS/C/c_8/task7/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/__PROJECTS/C/c_8/task7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
